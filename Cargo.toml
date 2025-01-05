@@ -3,6 +3,11 @@ name = "rs-uniq4uuid"
 version = "0.1.0"
 edition = "2021"
 
+description = "Gets unique uuids from input uuids"
+license = "Apache-2.0"
+documentation = "https://docs.rs/crate/rs-uniq4uuid/latest"
+repository = "https://github.com/takanoriyanagitani/rs-uniq4uuid"
+
 [lints.rust]
 unsafe_code = "forbid"
 
